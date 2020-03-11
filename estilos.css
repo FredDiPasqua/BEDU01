@@ -1,0 +1,24 @@
+.derechos{
+    background-color: black;
+    color: white;
+    text-align: end;
+}
+.derechos p{
+    padding-right: 20px;
+}
+.imagenes div{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.imagenes img{
+    margin: 2px;
+}
+.contacto{
+    background: grey;
+}
+.contacto form{
+    margin: 20px;
+    padding: 5px;
+
+}
